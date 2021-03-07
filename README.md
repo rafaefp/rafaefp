@@ -12,9 +12,9 @@
   
   ![Visitas](https://visitor-badge.glitch.me/badge?page_id=rafaefp.rafaefp)
 
-  [![rafaefp's github stats](https://github-readme-stats.vercel.app/api?username=rafaefp&count_private=true&show_icons=true&theme=default)](https://github.com/rafaefp/github-readme-stats)
+  ![rafaefp's github stats](https://github-readme-stats.vercel.app/api?username=rafaefp&count_private=true&show_icons=true&theme=default)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaefp)](https://github.com/rafaefp/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaefp)
 
 
 
