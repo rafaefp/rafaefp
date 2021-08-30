@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying some nice IT stuff and how to develop cool programs
-- 🌱 I’m currently learning C#, JavaScript and Java
+- 🌱 I’m currently working as a fullstack dev @ Avanade
+- 🐱‍🏍 Technologies I've been working with on my current project are C#, Razor, Bootstrap and SQL Server
 - 👯 I’m looking to collaborate on new projects
 - ⚡ Fun fact: I study 7 to 9 hours per day and every day... actually, that's not fun
 - 📫 How to reach me: 
