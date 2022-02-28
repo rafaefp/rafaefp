@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying some nice IT stuff and how to develop cool programs
-- 🌱 I’m currently working as a fullstack dev @ Avanade
-- 🐱‍🏍 Technologies I've been working with on my current project are C#, Razor, Bootstrap and SQL Server
+- 🌱 I’m currently working as a back-end dev @ Avanade
+- 🐱‍🏍 Technologies I've been working with on my current project are C#, ASP.NET MVC, Razor, Bootstrap and SQL Server
 - 👯 I’m looking to collaborate on new projects
-- ⚡ Fun fact: I study 7 to 9 hours per day and every day... actually, that's not fun
+- ⚡ Fun fact: I study around 4 hours per day and every day... actually, that's not fun
 - 📫 How to reach me: 
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaefp)](https://github.com/rafaefp)
